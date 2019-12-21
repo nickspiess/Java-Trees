@@ -1,0 +1,13 @@
+The overall amount of comparisons for the Splay tree was 9932
+The overall amount of comparisons for the Binary Search tree was 11016
+The overall amount of comparisons for the AVL tree was 7017
+
+The amount of searches done in general were: 500
+
+The average amount of the searches for the Splay Tree was 19.0 searches.
+The average amount of the searches for the AVL Tree was 14.0 searches.
+The average amount of the searches for the Binary Search Tree was 22.0 searches.
+
+The standard deviation for the AVL tree is : 1.9134582946305836
+The standard deviation for the BST is : 6.605699852482109
+The standard deviation for the Splay Tree is : 4.907766533229691

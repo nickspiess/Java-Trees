@@ -1,0 +1,233 @@
+***Inserting Peculiar***
+
+Peculiar   
+
+Size: 1
+Height: 0
+
+***Inserting Crapo***
+
+Crapo   
+Peculiar   
+
+Size: 2
+Height: 1
+
+***Inserting Accident***
+
+Accident   
+Crapo   
+Peculiar   
+
+Size: 3
+Height: 2
+
+***Inserting Eau Claire***
+
+Eau Claire   
+Accident   Peculiar   
+Crapo   
+
+Size: 4
+Height: 2
+
+***Inserting Boring***
+
+Boring   
+Accident   Eau Claire   
+Crapo   Peculiar   
+
+Size: 5
+Height: 2
+
+***Inserting Hell***
+
+Hell   
+Boring   Peculiar   
+Accident   Eau Claire   
+Crapo   
+
+Size: 6
+Height: 3
+
+***Inserting Walla Walla***
+
+Walla Walla   
+Peculiar   
+Hell   
+Boring   
+Accident   Eau Claire   
+Crapo   
+
+Size: 7
+Height: 5
+
+***Inserting Surprise***
+
+Surprise   
+Peculiar   Walla Walla   
+Hell   
+Boring   
+Accident   Eau Claire   
+Crapo   
+
+Size: 8
+Height: 5
+
+***Inserting Joseph***
+
+Joseph   
+Hell   Surprise   
+Boring   Peculiar   Walla Walla   
+Accident   Eau Claire   
+Crapo   
+
+Size: 9
+Height: 4
+
+***Inserting Romance***
+
+Romance   
+Joseph   Surprise   
+Hell   Peculiar   Walla Walla   
+Boring   
+Accident   Eau Claire   
+Crapo   
+
+Size: 10
+Height: 5
+
+***Inserting Mars***
+
+Mars   
+Joseph   Romance   
+Hell   Peculiar   Surprise   
+Boring   Walla Walla   
+Accident   Eau Claire   
+Crapo   
+
+Size: 11
+Height: 5
+
+***Inserting Nuttsville***
+
+Nuttsville   
+Mars   Peculiar   
+Joseph   Romance   
+Hell   Surprise   
+Boring   Walla Walla   
+Accident   Eau Claire   
+Crapo   
+
+Size: 12
+Height: 6
+
+***Inserting Rough and Ready***
+
+Rough and Ready   
+Peculiar   Surprise   
+Nuttsville   Romance   Walla Walla   
+Mars   
+Joseph   
+Hell   
+Boring   
+Accident   Eau Claire   
+Crapo   
+
+Size: 13
+Height: 8
+
+***Inserting Dynamite***
+
+Dynamite   
+Boring   Rough and Ready   
+Accident   Crapo   Nuttsville   Surprise   
+Joseph   Peculiar   Walla Walla   
+Hell   Mars   Romance   
+Eau Claire   
+
+Size: 14
+Height: 5
+
+***Inserting Good Grief***
+
+Good Grief   
+Dynamite   Rough and Ready   
+Boring   Eau Claire   Joseph   Surprise   
+Accident   Crapo   Hell   Nuttsville   Walla Walla   
+Mars   Peculiar   
+Romance   
+
+Size: 15
+Height: 5
+
+***Inserting Zarephath***
+
+Zarephath   
+Rough and Ready   
+Good Grief   Walla Walla   
+Dynamite   Joseph   Surprise   
+Boring   Eau Claire   Hell   Nuttsville   
+Accident   Crapo   Mars   Peculiar   
+Romance   
+
+Size: 16
+Height: 6
+
+***Removing Eau Claire***
+
+Dynamite   
+Boring   Rough and Ready   
+Accident   Crapo   Good Grief   Zarephath   
+Joseph   Walla Walla   
+Hell   Nuttsville   Surprise   
+Mars   Peculiar   
+Romance   
+
+Size: 15
+Height: 6
+
+***Removing Accident***
+
+Boring   
+Dynamite   
+Crapo   Rough and Ready   
+Good Grief   Zarephath   
+Joseph   Walla Walla   
+Hell   Nuttsville   Surprise   
+Mars   Peculiar   
+Romance   
+
+Size: 14
+Height: 7
+
+***Removing Rough and Ready***
+
+Dynamite   
+Boring   Good Grief   
+Crapo   Joseph   
+Hell   Nuttsville   
+Mars   Peculiar   
+Romance   
+Zarephath   
+Walla Walla   
+Surprise   
+
+Size: 13
+Height: 8
+
+***Clearing values***
+
+Size: 0
+Tree is empty
+Height: -1
+
+***Inserting Values: Accident, Eau Claire, Rough and Ready***
+
+Rough and Ready   
+Eau Claire   
+Accident   
+
+Size: 3
+Height: 2
+
